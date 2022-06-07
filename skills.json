@@ -1,3 +1,4 @@
-{"hard skills":["linux", "sql", "JS(basis)", "api(postman)", "structure HTTPS", "structure JSON", "structure XML", "Desktop testing", "Dev Tools", "Mobile Testing", "Jmeter", "Charles", "Fiddler", "Android Studio"],
-"soft skills":["communication skill", "emotional intelligence", "critical thinking", "creative thinking"]
+{
+"hard_skills":["linux", "sql", "JS(basis)", "api(postman)", "structure HTTPS", "structure JSON", "structure XML", "Desktop testing", "Dev Tools", "Mobile Testing", "Jmeter", "Charles", "Fiddler", "Android Studio"],
+"soft_skills":["communication skill", "emotional intelligence", "critical thinking", "creative thinking"]
 }
