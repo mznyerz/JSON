@@ -5,7 +5,7 @@
  {"OS": "Windows 10 Version 21H2 (Build 19044.1706)",
  "Browser":"YaBrowser/22.3.4.731"
  }, 
- "Steps to reproduce":
+ "STR":
 ["1. ...",
  "2. ...",
  "3. ...",
@@ -17,7 +17,7 @@
  ],
  "Priority": "High",
  "Severity": "Critical",
- "Expected result": " .... ",
- "Actual result": " .... ",
+ "Expected_result": " .... ",
+ "Actual_result": " .... ",
  "Attachment": "-"
 }
